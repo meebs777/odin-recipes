@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    background-color: rgba(221, 208, 208, 0.733);
+}
+
+
+h1 {
+    color: orange;
+}
